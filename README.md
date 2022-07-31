@@ -3,6 +3,9 @@ Git lessons
 this is an incredible course. I started from scratch and have already learned a lot
 
 ## Linux CLI, and HTTP
+<h1>
+Considering that this is the first time for me, and the reasoning for each task is the same - it's all new))). Time will tell what I will use in the future.
+</h1>
 <p>TASK1</p>
 <img src="task_linux_cli/1.png" alt="Task 1" style="width: 100%; height: 100%">
 
