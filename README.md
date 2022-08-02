@@ -2,6 +2,11 @@
 Git lessons
 this is an incredible course. I started from scratch and have already learned a lot
 
+## Git Collaboration
+The problem remains that after completing a task in the learning environment, it is difficult to fully understand how it will be directly in GitHub
+<p>Git Collaboration</p>
+<img src="task_git_collaboration/task_git_collaboration.png" alt="task_git_collaboration" style="width: 100%; height: 100%">
+
 ## Linux CLI, and HTTP
 <h1>
 Considering that this is the first time for me, and the reasoning for each task is the same - it's all new))). Time will tell what I will use in the future.
