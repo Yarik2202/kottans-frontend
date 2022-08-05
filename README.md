@@ -2,6 +2,11 @@
 Git lessons
 this is an incredible course. I started from scratch and have already learned a lot
 
+## Intro to HTML and CSS
+<p>Intro to HTML and CSS</p>
+<img src="task_html_css_intro/task_html_css_intro 1.png" alt="task_html_css_intro" style="width: 100%; height: 100%">
+<img src="task_html_css_intro/task_html_css_intro 2.png" alt="task_html_css_intro" style="width: 100%; height: 100%">
+
 ## Git Collaboration
 The problem remains that after completing a task in the learning environment, it is difficult to fully understand how it will be directly in GitHub
 <p>Git Collaboration</p>
