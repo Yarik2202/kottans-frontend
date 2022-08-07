@@ -2,6 +2,11 @@
 Git lessons
 this is an incredible course. I started from scratch and have already learned a lot
 
+## Responsive Web Design
+I really liked the games. While passing the levels, you get a practical understanding of the passed material.
+<img src="task_responsive_web_design/task_responsive_web_design1.png" alt="task_responsive_web_design" style="width: 100%; height: 100%">
+<img src="task_responsive_web_design/task_responsive_web_design2.png" alt="task_responsive_web_design" style="width: 100%; height: 100%">
+
 ## Intro to HTML and CSS
 <p>Intro to HTML and CSS</p>
 <img src="task_html_css_intro/task_html_css_intro 1.png" alt="task_html_css_intro" style="width: 100%; height: 100%">
